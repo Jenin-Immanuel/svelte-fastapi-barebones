@@ -25,7 +25,7 @@
     <img src={fastAPILogo} alt="FastAPI Logo" />
   </div>
   <h1>Hello {data}!</h1>
-
+  <h1>Hello I'm Svelte</h1>
   <Counter />
 
   <p>
